@@ -1,2 +1,2 @@
 # Hackerrank_Sols
-Hacker rank solutions for personal understanding and chec for future approaches.
+Hacker rank solutions for personal understanding and check for future approaches.
